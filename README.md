@@ -1,3 +1,7 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+This personal webpage is a project for Harvard's CS50 Web Programming with Python and Javascript. 
+
+Files:
+
+Additional Information:
